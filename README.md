@@ -1,2 +1,2 @@
-# FACE AND EYE DETECTION:
-Code for detecting face and eyes using OpenCV
+# STUDY HELPER:
+Code for Detecting posture and drowsiness
